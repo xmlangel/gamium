@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "gamium",
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.0.1"
+    "com.unity.nuget.newtonsoft-json": "2.0.2"
   },
   "keywords": [],
   "changelogUrl": "https://github.com/dogu-team/gamium-engine-unity/blob/main/CHANGELOG.md",
